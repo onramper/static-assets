@@ -1,2 +1,2 @@
-# static-assets
+# Static Assets
 Temporary hosting of static assets.
